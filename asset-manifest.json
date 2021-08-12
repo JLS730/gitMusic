@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gitMusic/static/css/main.9d29fb63.chunk.css",
-    "main.js": "/gitMusic/static/js/main.98c1e240.chunk.js",
-    "main.js.map": "/gitMusic/static/js/main.98c1e240.chunk.js.map",
+    "main.js": "/gitMusic/static/js/main.8f8e0f7c.chunk.js",
+    "main.js.map": "/gitMusic/static/js/main.8f8e0f7c.chunk.js.map",
     "runtime-main.js": "/gitMusic/static/js/runtime-main.67cbedae.js",
     "runtime-main.js.map": "/gitMusic/static/js/runtime-main.67cbedae.js.map",
     "static/js/2.4a7b7e94.chunk.js": "/gitMusic/static/js/2.4a7b7e94.chunk.js",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.67cbedae.js",
     "static/js/2.4a7b7e94.chunk.js",
     "static/css/main.9d29fb63.chunk.css",
-    "static/js/main.98c1e240.chunk.js"
+    "static/js/main.8f8e0f7c.chunk.js"
   ]
 }
