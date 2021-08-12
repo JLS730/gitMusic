@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/gitMusic/static/css/main.9d29fb63.chunk.css",
+    "main.js": "/gitMusic/static/js/main.98c1e240.chunk.js",
+    "main.js.map": "/gitMusic/static/js/main.98c1e240.chunk.js.map",
+    "runtime-main.js": "/gitMusic/static/js/runtime-main.67cbedae.js",
+    "runtime-main.js.map": "/gitMusic/static/js/runtime-main.67cbedae.js.map",
+    "static/js/2.4a7b7e94.chunk.js": "/gitMusic/static/js/2.4a7b7e94.chunk.js",
+    "static/js/2.4a7b7e94.chunk.js.map": "/gitMusic/static/js/2.4a7b7e94.chunk.js.map",
+    "index.html": "/gitMusic/index.html",
+    "static/css/main.9d29fb63.chunk.css.map": "/gitMusic/static/css/main.9d29fb63.chunk.css.map",
+    "static/js/2.4a7b7e94.chunk.js.LICENSE.txt": "/gitMusic/static/js/2.4a7b7e94.chunk.js.LICENSE.txt",
+    "static/media/album0.cf5838fd.jpg": "/gitMusic/static/media/album0.cf5838fd.jpg",
+    "static/media/album1.5f61c125.jpg": "/gitMusic/static/media/album1.5f61c125.jpg",
+    "static/media/album2.42e06972.jpg": "/gitMusic/static/media/album2.42e06972.jpg",
+    "static/media/album3.0e4bb08d.jpg": "/gitMusic/static/media/album3.0e4bb08d.jpg",
+    "static/media/album4.1b67843e.jpg": "/gitMusic/static/media/album4.1b67843e.jpg",
+    "static/media/album5.a414ae95.jpg": "/gitMusic/static/media/album5.a414ae95.jpg",
+    "static/media/album6.548ffbdf.jpg": "/gitMusic/static/media/album6.548ffbdf.jpg",
+    "static/media/album7.6498e7cc.jpg": "/gitMusic/static/media/album7.6498e7cc.jpg",
+    "static/media/album8.6da1735f.jpg": "/gitMusic/static/media/album8.6da1735f.jpg",
+    "static/media/album9.61341231.jpg": "/gitMusic/static/media/album9.61341231.jpg",
+    "static/media/homepage-1.60bbea99.jpeg": "/gitMusic/static/media/homepage-1.60bbea99.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67cbedae.js",
+    "static/js/2.4a7b7e94.chunk.js",
+    "static/css/main.9d29fb63.chunk.css",
+    "static/js/main.98c1e240.chunk.js"
+  ]
+}
